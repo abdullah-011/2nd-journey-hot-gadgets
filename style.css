@@ -1,0 +1,40 @@
+.carousel .carousel-indicators li {
+    background-color: #fff;
+    background-color: rgba(70, 70, 70, 0.25);
+  }
+  
+  .carousel .carousel-indicators .active {
+    background-color:#fbc531;
+  }
+  .titel{
+      height: 50px;
+}
+  small{
+    display: block;
+    color:#fbc531;
+  }
+  .card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+  .card-footer{
+    border-top: none;
+    background-color: white;
+  }
+  .categories{
+    box-shadow: 5px 5px 10px lightgrey;
+    padding: 20px;
+    margin: 10px;
+}
+  .cat-1{
+    margin-left: 70px;
+  }
+  .cat-title{
+    margin: 0 45% 0 42%;
+    border-bottom:4px solid #fbc531;
+  }
+  footer{
+    text-align: center;
+   margin: 100px 100px;
+  }
